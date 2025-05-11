@@ -77,6 +77,9 @@ color: red;
 float: left;
 font-size: 15px;
 }
+a {
+color: gray;
+{
 @media only screen and (min-width:320px) and (max-width:768px){
 .cards-banner-one .content {
 width: 80%;
